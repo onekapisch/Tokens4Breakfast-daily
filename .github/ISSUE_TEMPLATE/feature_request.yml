@@ -1,0 +1,11 @@
+name: 💡 Feature request
+description: Suggest a provider or feature
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: The provider or feature, and the problem it solves for you.
+    validations:
+      required: true
