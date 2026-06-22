@@ -2,7 +2,7 @@
 
 # ☕ Tokens 4 Breakfast
 
-### Track tokens and AI subscriptions across major platform.
+### Track tokens and AI subscriptions across major platforms.
 
 Track **token usage, spend, subscriptions, and rate-limit pressure** across **8 AI providers** (Claude Code, OpenAI, Cursor, GitHub Copilot, Gemini, DeepSeek, Mistral, and OpenRouter), all from one private Mac menu bar app. **100% local. No account. One-time $7.99.**
 
